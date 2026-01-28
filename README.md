@@ -1,4 +1,8 @@
-# 💤 LazyVim
+# neovim configuration
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+my personal neovim configuration files based off of LazyVim.
+
+setup:
+
+- swiftui (lsp, dsp)
+- ios device debugging
